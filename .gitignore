@@ -1,0 +1,42 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+
+# Model files (optional - uncomment if models are large)
+# models/*.pkl
+# models/*.json
+
+# Data files (optional - uncomment if data is large)
+# data/*.csv
+
+# Test results
+tests/stress_test_results_*.csv
+*.log
+
+# Environment variables
+.env
+.env.local
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+
+# Coverage
+.coverage
+htmlcov/
