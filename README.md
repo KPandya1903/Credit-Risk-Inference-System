@@ -333,10 +333,4 @@ CMD ["gunicorn", "-w", "4", "-b", "0.0.0.0:5000", "app.api:app"]
 - [ ] Docker containerization
 - [ ] CI/CD pipeline
 
-## License
 
-MIT License
-
-## Contact
-
-For questions or support, please contact your ML Engineering team.
